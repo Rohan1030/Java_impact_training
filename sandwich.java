@@ -24,7 +24,7 @@ public class sandwich {
     else {
       System.out.println("Invalid Number300");
     }
-     nn
+     
   }
   
 }
