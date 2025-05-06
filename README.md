@@ -4,7 +4,7 @@ This repository contains Java programs and examples taught during the **Impact T
 
 ## 📚 About
 
-The training was facilitated by **Six Phrase**, a professional training company hired by our college to enhance our understanding of core Java concepts. The code here serves as a personal learning log of everything covered in these sessions.
+The training was facilitated by **Six Phrase**, a professional training company which help to enhance our understanding of core Java concepts. The code here serves as a personal learning log of everything covered in these sessions.
 
 ## 🧠 Topics Covered
 
