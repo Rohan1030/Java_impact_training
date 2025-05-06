@@ -4,9 +4,13 @@ public class blackbeard {
 
   {
     Scanner sc = new Scanner(System.in);
-    int p1 = sc.nextInt();
-    int p2 = sc.nextInt();
-    int p3 = sc.nextInt();
+   
+    int ben = (p2*)
+
+
+
+
+    
 
     
   }
