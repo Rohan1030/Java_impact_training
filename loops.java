@@ -4,7 +4,7 @@ public class loops {
     Scanner sc = new Scanner(System.in);
     System.out.println("Enter Number : ");
 
-    int n = sc.nextInt();
+    //int n = sc.nextInt();
 
     
   }
