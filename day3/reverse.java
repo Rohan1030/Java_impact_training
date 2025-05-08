@@ -1,3 +1,4 @@
+package day3;
 import java.util.*;
 class  reverse {
   public static void main(String[] args)

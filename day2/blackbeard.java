@@ -1,3 +1,4 @@
+package day2;
 import java.util.*;
 public class blackbeard {
   public static void main(String[] args)

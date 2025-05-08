@@ -1,3 +1,4 @@
+package day1;
 import java.util.*;
 public class weird {
   public static void main(String[] args) {
