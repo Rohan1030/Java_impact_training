@@ -23,6 +23,7 @@ public class armstrong {
       int r = n%10;
       n = n/10;
       sum += Math.pow(r,digit);
+      //sum = sum+math.pow(r,digit);
 
      }
 
