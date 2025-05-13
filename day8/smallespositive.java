@@ -30,6 +30,7 @@ public class smallespositive {
       }
 
       System.out.println(num);
+      
 
   }
   
