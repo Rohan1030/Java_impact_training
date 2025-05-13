@@ -8,7 +8,7 @@ public class oilFactory {
     int n = sc.nextInt();
 
 
-   //  ArrayList<Integer> even = new ArrayList<>();
+     //ArrayList<Integer> even = new ArrayList<>();
      //ArrayList<Integer> odd = new ArrayList<>();
 
 

@@ -6,7 +6,7 @@ public class blackbeard {
   {
     Scanner sc = new Scanner(System.in);
    
-    int ben = (p2*)
+    
 
 
 
