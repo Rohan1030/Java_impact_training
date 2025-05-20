@@ -14,7 +14,11 @@ public class count {
         count++;
       }
 
+      
 
+
+
+      
    
   }
   System.out.println(count );
