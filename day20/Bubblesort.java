@@ -1,5 +1,5 @@
 package day20;
-import java.util.*;
+import java.util.Scanner;
 
 public class Bubblesort {
 
