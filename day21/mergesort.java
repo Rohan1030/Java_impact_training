@@ -16,12 +16,13 @@ public class mergesort  {
       temp[k++] = arr[i] <= arr[j] ? arr[i++] : arr[j++];
     }
     while (i <= mid) temp[k++] = arr[i++];
+    
     while (j <= right) temp[k++] = arr[j++];
     for (i = left, k = 0; i <= right; i++, k++) arr[i] = temp[k];
   }
 
   public static void main(String[] args) {
-    int[] arr = {12, 11, 13, 5, 6, 7};
+    int[] arr = {12, 11, 13, 5, 6, 7,8,97,95,97,9};
     mergeSort(arr, 0, arr.length - 1);
     for (int n : arr) System.out.print(n + " ");
   }
