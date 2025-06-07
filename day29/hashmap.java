@@ -11,6 +11,10 @@ public class hashmap {
     System.out.println(obj.remove(1));
     System.out.println(obj.containsKey(1));
     System.out.println(obj.containsValue("Rohan"));
+    for(int i:obj.keySet())
+    {
+      System.out.println("Each key"+i+ "<-->"+obj.get(i));
+    }
   }
   
 }
